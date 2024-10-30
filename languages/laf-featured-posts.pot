@@ -1,0 +1,199 @@
+# Copyright (C) 2016 LafCreate
+# This file is distributed under the same license as the Laf Featured Posts package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Laf Featured Posts 0.1.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/laf-featured-posts\n"
+"POT-Creation-Date: 2016-02-02 11:38:19+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.3\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: admin/includes/class-laffp-options-page.php:27
+msgid "Laf Featured Posts Options"
+msgstr ""
+
+#: admin/includes/class-laffp-options-page.php:28
+#: includes/widgets/class-laffp-widget-posts.php:28
+#: includes/widgets/class-laffp-widget-posts.php:50 laf-featured-posts.php:114
+#: laf-featured-posts.php:247
+msgid "Featured Posts"
+msgstr ""
+
+#: admin/includes/class-laffp-options-page.php:45
+msgid "Laf Featured Posts Settings"
+msgstr ""
+
+#: admin/includes/class-laffp-options-page.php:66
+msgid "Display settings"
+msgstr ""
+
+#: admin/includes/class-laffp-options-page.php:73
+msgid "Default posts per page"
+msgstr ""
+
+#: admin/includes/meta-boxes/class-laffp-feature-meta-box.php:63
+msgid "Feature this post"
+msgstr ""
+
+#: admin/includes/meta-boxes/class-laffp-posts-order-meta-box.php:31
+msgid "Posts Order"
+msgstr ""
+
+#: admin/includes/meta-boxes/class-laffp-posts-order-meta-box.php:60
+msgid "Order"
+msgstr ""
+
+#: admin/includes/meta-boxes/class-laffp-posts-order-meta-box.php:61
+msgid "Title"
+msgstr ""
+
+#: admin/includes/meta-boxes/class-laffp-posts-order-meta-box.php:62
+msgid "Post Type"
+msgstr ""
+
+#: admin/includes/meta-boxes/class-laffp-posts-order-meta-box.php:63
+msgid "Operation"
+msgstr ""
+
+#: admin/includes/meta-boxes/class-laffp-posts-order-meta-box.php:81
+msgid "Remove"
+msgstr ""
+
+#: admin/includes/meta-boxes/class-laffp-posts-order-meta-box.php:91
+msgid "Featured Post not exists."
+msgstr ""
+
+#: admin/includes/meta-boxes/class-laffp-submit-meta-box.php:21
+msgid "Status"
+msgstr ""
+
+#: admin/includes/meta-boxes/class-laffp-submit-meta-box.php:48
+msgid "Delete Permanently"
+msgstr ""
+
+#: admin/includes/meta-boxes/class-laffp-submit-meta-box.php:50
+msgid "Move to Trash"
+msgstr ""
+
+#: admin/includes/meta-boxes/class-laffp-submit-meta-box.php:60
+#: admin/includes/meta-boxes/class-laffp-submit-meta-box.php:61
+msgid "Publish"
+msgstr ""
+
+#: admin/includes/meta-boxes/class-laffp-submit-meta-box.php:63
+#: admin/includes/meta-boxes/class-laffp-submit-meta-box.php:64
+msgid "Submit for Review"
+msgstr ""
+
+#: admin/includes/meta-boxes/class-laffp-submit-meta-box.php:67
+#: admin/includes/meta-boxes/class-laffp-submit-meta-box.php:68
+msgid "Update"
+msgstr ""
+
+#: admin/includes/meta-boxes/class-laffp-target-post-type-meta-box.php:37
+msgid "Target Post Type"
+msgstr ""
+
+#: includes/widgets/class-laffp-widget-posts.php:24
+msgid "Your site&#8217;s featured posts."
+msgstr ""
+
+#: includes/widgets/class-laffp-widget-posts.php:108
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/class-laffp-widget-posts.php:113
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/widgets/class-laffp-widget-posts.php:118
+msgid "Display post date?"
+msgstr ""
+
+#: includes/widgets/class-laffp-widget-posts.php:121
+msgid "Category:"
+msgstr ""
+
+#: laf-featured-posts.php:99
+msgid "Add New Group"
+msgstr ""
+
+#: laf-featured-posts.php:100
+msgid "Edit Group"
+msgstr ""
+
+#: laf-featured-posts.php:101
+msgid "New Group"
+msgstr ""
+
+#: laf-featured-posts.php:102
+msgid "View Group"
+msgstr ""
+
+#: laf-featured-posts.php:103
+msgid "Search Group"
+msgstr ""
+
+#: laf-featured-posts.php:104
+msgid "No groups found."
+msgstr ""
+
+#: laf-featured-posts.php:105
+msgid "No groups found in Trash."
+msgstr ""
+
+#: laf-featured-posts.php:107
+msgid "All Groups"
+msgstr ""
+
+#: laf-featured-posts.php:108
+msgid "Featured Image"
+msgstr ""
+
+#: laf-featured-posts.php:109
+msgid "Set featured image"
+msgstr ""
+
+#: laf-featured-posts.php:110
+msgid "Remove featured image"
+msgstr ""
+
+#: laf-featured-posts.php:111
+msgid "Use as featured image"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "PLUGIN DESCRIPTION HERE"
+msgstr ""
+
+#: laf-featured-posts.php:96
+msgctxt "post type general name"
+msgid "Featured Posts"
+msgstr ""
+
+#: laf-featured-posts.php:97
+msgctxt "post type singular name"
+msgid "Group"
+msgstr ""
+
+#: laf-featured-posts.php:98
+msgctxt "post"
+msgid "Add New"
+msgstr ""

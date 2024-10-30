@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+#laffpdiv-submit .inside {
+	margin: 0;
+	padding: 0;
+}
+.sortable {
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+.sortable tbody tr {
+	cursor: move;
+}
+.sortable tbody tr:nth-child(even) {
+	background-color: #fff;
+}
+
+@media screen and (max-width: 782px) {
+	#laffpdiv-posts-order .wp-list-table td {
+		display: table-cell;
+	}
+}
